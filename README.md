@@ -1,4 +1,4 @@
-# go-work
+# go-work [![Go Reference](https://pkg.go.dev/badge/pkg.go.dev/github.com/Ja7ad/go-work.svg)](https://pkg.go.dev/pkg.go.dev/github.com/Ja7ad/go-work)
 An example true use of go work feature
 
 ### create go.work
